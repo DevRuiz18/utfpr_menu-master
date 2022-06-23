@@ -1,0 +1,26 @@
+PRÉ REQUISITOS[
+	Possuir PHP, Composer e Laravel no ambiente de trabalho. 
+	Instalar e configurar o ambiente com Xampp;
+	Instalar Composer de forma global;
+	Iniciar o Xampp junto iniciando o Apache e o MySQL.
+]
+
+INSTALAÇÃO[
+	Abrir o projeto no VScode;
+	Excutar php artisan migrate:fresh --seed;
+	Executar php artisan serve;
+	Ambos comandos devem ser executados dentro da pasta do projeto.
+]
+
+
+ANALISE DAS ROTAS[
+	Instalar o Postman;
+	Abir o arquivo Cardapio.postman_collection no Postman;
+	Executar as rotas sempre trocando a Bearer Token, para a gerada na execução.
+]
+
+PARTES DESENVOLVIDAS POR CADA INTEGRANTE[
+	Gustavo → desenvolmento, apresentação e documentação;
+	Abramo → desenvolvimento e testes;
+	Guilherme → desenvolvimento e ajuda na documentação.s
+]
